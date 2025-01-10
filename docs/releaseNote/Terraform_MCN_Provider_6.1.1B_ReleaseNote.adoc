@@ -1,0 +1,24 @@
+= Release Notes Terraform Arrcus MCN Provider version 2.1.1
+:toc:
+:toclevels: 2
+
+== New Features/Model Changes/Functionality
+
+=== New Features/Model Changes/Functionality added in Terraform Arrcus MCN Provider version 2.1.1
+
+==== New features
+
+Supports ArcOrchestrator version 6.1.1B on cloud provider Amazon Web Services, Microsoft Azure, Google Cloud and Oracle Cloud Infrastructure.
+
+== Resolved Issues
+=== Resolved Issues in Terraform Arrcus MCN Provider version 2.1.1
+
+- None
+
+== Documentation Feedback
+We value your feedback on this document. Please send your comments to document-feedback@arrcus.com.
+
+----
+Terraform Arrcus MCN Provider® Release Notes, Release 2.1.1
+© Copyright 2025 by Arrcus, Inc.  All rights reserved.
+----
